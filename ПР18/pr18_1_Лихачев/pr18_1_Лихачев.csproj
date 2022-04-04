@@ -107,5 +107,23 @@
   <ItemGroup>
     <None Include="Resources\Кот_4.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Кот.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Книги.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Луна.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Подсвечник.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Посох.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Череп.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -83,9 +83,9 @@ namespace pr18_1_Лихачев.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap кот_2 {
+        internal static System.Drawing.Bitmap Книги {
             get {
-                object obj = ResourceManager.GetObject("кот_2", resourceCulture);
+                object obj = ResourceManager.GetObject("Книги", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace pr18_1_Лихачев.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap кот_3 {
+        internal static System.Drawing.Bitmap Кот {
             get {
-                object obj = ResourceManager.GetObject("кот_3", resourceCulture);
+                object obj = ResourceManager.GetObject("Кот", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace pr18_1_Лихачев.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Кот_4 {
+        internal static System.Drawing.Bitmap Луна {
             get {
-                object obj = ResourceManager.GetObject("Кот_4", resourceCulture);
+                object obj = ResourceManager.GetObject("Луна", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,9 @@ namespace pr18_1_Лихачев.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap кот_5 {
+        internal static System.Drawing.Bitmap Подсвечник {
             get {
-                object obj = ResourceManager.GetObject("кот_5", resourceCulture);
+                object obj = ResourceManager.GetObject("Подсвечник", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -123,19 +123,9 @@ namespace pr18_1_Лихачев.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap кот_6 {
+        internal static System.Drawing.Bitmap Посох {
             get {
-                object obj = ResourceManager.GetObject("кот_6", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap кот_7 {
-            get {
-                object obj = ResourceManager.GetObject("кот_7", resourceCulture);
+                object obj = ResourceManager.GetObject("Посох", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -146,6 +136,16 @@ namespace pr18_1_Лихачев.Properties {
         internal static System.Drawing.Bitmap Фляга_с_эстусом__Dark_Souls_III_ {
             get {
                 object obj = ResourceManager.GetObject("Фляга_с_эстусом_(Dark_Souls_III)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Череп {
+            get {
+                object obj = ResourceManager.GetObject("Череп", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

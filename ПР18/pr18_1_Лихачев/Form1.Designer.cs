@@ -42,6 +42,7 @@
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
@@ -91,7 +92,7 @@
             // 
             this.pictureBox12.BackColor = System.Drawing.Color.White;
             this.pictureBox12.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox12.Image = global::pr18_1_Лихачев.Properties.Resources.Кот_4;
+            this.pictureBox12.Image = global::pr18_1_Лихачев.Properties.Resources.Луна;
             this.pictureBox12.Location = new System.Drawing.Point(806, 54);
             this.pictureBox12.Name = "pictureBox12";
             this.pictureBox12.Size = new System.Drawing.Size(42, 38);
@@ -105,7 +106,7 @@
             // 
             this.pictureBox11.BackColor = System.Drawing.Color.White;
             this.pictureBox11.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox11.Image = global::pr18_1_Лихачев.Properties.Resources.кот_3;
+            this.pictureBox11.Image = global::pr18_1_Лихачев.Properties.Resources.Кот;
             this.pictureBox11.Location = new System.Drawing.Point(606, 320);
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(56, 53);
@@ -119,7 +120,7 @@
             // 
             this.pictureBox10.BackColor = System.Drawing.Color.White;
             this.pictureBox10.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox10.Image = global::pr18_1_Лихачев.Properties.Resources.кот_7;
+            this.pictureBox10.Image = global::pr18_1_Лихачев.Properties.Resources.Подсвечник;
             this.pictureBox10.Location = new System.Drawing.Point(261, 131);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(70, 60);
@@ -133,7 +134,7 @@
             // 
             this.pictureBox9.BackColor = System.Drawing.Color.White;
             this.pictureBox9.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox9.Image = global::pr18_1_Лихачев.Properties.Resources.кот_6;
+            this.pictureBox9.Image = global::pr18_1_Лихачев.Properties.Resources.Посох;
             this.pictureBox9.Location = new System.Drawing.Point(244, 434);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(73, 68);
@@ -161,7 +162,7 @@
             // 
             this.pictureBox7.BackColor = System.Drawing.Color.White;
             this.pictureBox7.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox7.Image = global::pr18_1_Лихачев.Properties.Resources.кот_2;
+            this.pictureBox7.Image = global::pr18_1_Лихачев.Properties.Resources.Череп;
             this.pictureBox7.Location = new System.Drawing.Point(894, 405);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(75, 53);
@@ -175,7 +176,7 @@
             // 
             this.pictureBox6.BackColor = System.Drawing.Color.White;
             this.pictureBox6.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox6.Image = global::pr18_1_Лихачев.Properties.Resources.кот_5;
+            this.pictureBox6.Image = global::pr18_1_Лихачев.Properties.Resources.Книги;
             this.pictureBox6.Location = new System.Drawing.Point(553, 473);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(65, 53);
@@ -250,11 +251,22 @@
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
+            // label2
+            // 
+            this.label2.Location = new System.Drawing.Point(48, 678);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(1093, 23);
+            this.label2.TabIndex = 6;
+            this.label2.Text = "label2";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label2.Visible = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1184, 741);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -295,6 +307,7 @@
         private System.Windows.Forms.PictureBox pictureBox9;
         private System.Windows.Forms.PictureBox pictureBox8;
         private System.Windows.Forms.PictureBox pictureBox7;
+        private System.Windows.Forms.Label label2;
     }
 }
 
