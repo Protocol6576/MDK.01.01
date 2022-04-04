@@ -1,0 +1,9 @@
+D:\ght\Пр16_3_Лихачев А.В\pr16_3.3_Лихачев\bin\Debug\pr16_3.3_Лихачев.exe.config
+D:\ght\Пр16_3_Лихачев А.В\pr16_3.3_Лихачев\bin\Debug\pr16_3.3_Лихачев.exe
+D:\ght\Пр16_3_Лихачев А.В\pr16_3.3_Лихачев\bin\Debug\pr16_3.3_Лихачев.pdb
+D:\ght\Пр16_3_Лихачев А.В\pr16_3.3_Лихачев\obj\Debug\pr16_3.3_Лихачев.csprojAssemblyReference.cache
+D:\ght\Пр16_3_Лихачев А.В\pr16_3.3_Лихачев\obj\Debug\pr16_3._3_Лихачев.Form1.resources
+D:\ght\Пр16_3_Лихачев А.В\pr16_3.3_Лихачев\obj\Debug\pr16_3._3_Лихачев.Properties.Resources.resources
+D:\ght\Пр16_3_Лихачев А.В\pr16_3.3_Лихачев\obj\Debug\pr16_3.3_Лихачев.csproj.GenerateResource.cache
+D:\ght\Пр16_3_Лихачев А.В\pr16_3.3_Лихачев\obj\Debug\pr16_3.3_Лихачев.exe
+D:\ght\Пр16_3_Лихачев А.В\pr16_3.3_Лихачев\obj\Debug\pr16_3.3_Лихачев.pdb

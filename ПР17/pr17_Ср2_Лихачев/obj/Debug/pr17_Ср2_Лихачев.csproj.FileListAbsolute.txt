@@ -1,0 +1,8 @@
+X:\МДК.01.01\ПР17\pr17_Ср2_Лихачев\bin\Debug\pr17_Ср2_Лихачев.exe.config
+X:\МДК.01.01\ПР17\pr17_Ср2_Лихачев\bin\Debug\pr17_Ср2_Лихачев.exe
+X:\МДК.01.01\ПР17\pr17_Ср2_Лихачев\bin\Debug\pr17_Ср2_Лихачев.pdb
+X:\МДК.01.01\ПР17\pr17_Ср2_Лихачев\obj\Debug\pr17_Ср2_Лихачев.Form1.resources
+X:\МДК.01.01\ПР17\pr17_Ср2_Лихачев\obj\Debug\pr17_Ср2_Лихачев.Properties.Resources.resources
+X:\МДК.01.01\ПР17\pr17_Ср2_Лихачев\obj\Debug\pr17_Ср2_Лихачев.csproj.GenerateResource.cache
+X:\МДК.01.01\ПР17\pr17_Ср2_Лихачев\obj\Debug\pr17_Ср2_Лихачев.exe
+X:\МДК.01.01\ПР17\pr17_Ср2_Лихачев\obj\Debug\pr17_Ср2_Лихачев.pdb
