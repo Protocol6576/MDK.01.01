@@ -72,7 +72,7 @@
             this.LazerButton.Image = ((System.Drawing.Image)(resources.GetObject("LazerButton.Image")));
             this.LazerButton.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.LazerButton.Name = "LazerButton";
-            this.LazerButton.Size = new System.Drawing.Size(50, 22);
+            this.LazerButton.Size = new System.Drawing.Size(120, 22);
             this.LazerButton.Text = "Лазер";
             this.LazerButton.Click += new System.EventHandler(this.LazerButton_Click);
             // 
@@ -90,7 +90,6 @@
             // 
             // ResultTextBox
             // 
-            this.ResultTextBox.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.ResultTextBox.Name = "ResultTextBox";
             this.ResultTextBox.Size = new System.Drawing.Size(80, 25);
             // 
@@ -115,11 +114,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.toolStrip1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Игра";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseClick);

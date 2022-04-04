@@ -44,7 +44,7 @@ namespace pr18_2_Лихачев
             GraphicsPath path1 = new GraphicsPath();
             path1.AddEllipse(rec);
             Region reg = new Region(path1);
-            rec.X = point.X = size.Width / 4;
+            rec.X = point.X + size.Width / 4;
             rec.Y = point.Y;
             rec.Width = size.Width / 2;
             rec.Height = size.Height;
@@ -56,7 +56,7 @@ namespace pr18_2_Лихачев
         public void Move_bug()
         {
             point.X += veloX;
-            point.Y = veloY;
+            point.Y += veloY;
             reg = Form_bug();
         }
     }

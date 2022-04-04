@@ -10,10 +10,10 @@ namespace pr18_2_Лихачев
 {
     public class BrushColor
     {
-        public Color FonColor;
-        public Color laserColor;
-        public Color DashBug;
-        public Color KilledBug;
+        public Color FonColor = Color.Black;
+        public Color laserColor = Color.Red;
+        public Color DashBug = Color.White;
+        public Color KilledBug = Color.LightGreen;
 
         public BrushColor()
         {

@@ -1,1 +1,10 @@
 X:\МДК.01.01\ПР18\pr18_2_Лихачев\obj\Debug\pr18_2_Лихачев.csprojAssemblyReference.cache
+D:\ght\ПР18\pr18_2_Лихачев\bin\Debug\pr18_2_Лихачев.exe.config
+D:\ght\ПР18\pr18_2_Лихачев\bin\Debug\pr18_2_Лихачев.exe
+D:\ght\ПР18\pr18_2_Лихачев\bin\Debug\pr18_2_Лихачев.pdb
+D:\ght\ПР18\pr18_2_Лихачев\obj\Debug\pr18_2_Лихачев.csprojAssemblyReference.cache
+D:\ght\ПР18\pr18_2_Лихачев\obj\Debug\pr18_2_Лихачев.Form1.resources
+D:\ght\ПР18\pr18_2_Лихачев\obj\Debug\pr18_2_Лихачев.Properties.Resources.resources
+D:\ght\ПР18\pr18_2_Лихачев\obj\Debug\pr18_2_Лихачев.csproj.GenerateResource.cache
+D:\ght\ПР18\pr18_2_Лихачев\obj\Debug\pr18_2_Лихачев.exe
+D:\ght\ПР18\pr18_2_Лихачев\obj\Debug\pr18_2_Лихачев.pdb

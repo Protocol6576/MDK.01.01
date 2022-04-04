@@ -29,12 +29,12 @@ namespace pr18_2_Лихачев
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            g = this.CreateGraphics();          // инициализация холста
-            BackColor = bc.FonColor;            // цвет фона
+            g = this.CreateGraphics();         
+            BackColor = bc.FonColor;           
             imageP = new Bitmap(imageList1.Images[0], 100, 100);
-            player.New_player(this);            // инициализация игрока
-            nlo = new Enemies();                // инициализация противника
-            nlo.New_Enemies(this);              // инициализация НЛО как объектов
+            player.New_player(this);          
+            nlo = new Enemies();             
+            nlo.New_Enemies(this);              
         }
 
 
