@@ -1,0 +1,9 @@
+D:\МДК_01_01\PR19_7\pr19_7.4_Likhachev_Miroshnichenko\bin\Debug\pr19_7.4_Likhachev_Miroshnichenko.exe.config
+D:\МДК_01_01\PR19_7\pr19_7.4_Likhachev_Miroshnichenko\bin\Debug\pr19_7.4_Likhachev_Miroshnichenko.exe
+D:\МДК_01_01\PR19_7\pr19_7.4_Likhachev_Miroshnichenko\bin\Debug\pr19_7.4_Likhachev_Miroshnichenko.pdb
+D:\МДК_01_01\PR19_7\pr19_7.4_Likhachev_Miroshnichenko\obj\Debug\pr19_7.4_Likhachev_Miroshnichenko.csprojAssemblyReference.cache
+D:\МДК_01_01\PR19_7\pr19_7.4_Likhachev_Miroshnichenko\obj\Debug\pr19_7._4_Likhachev_Miroshnichenko.Form1.resources
+D:\МДК_01_01\PR19_7\pr19_7.4_Likhachev_Miroshnichenko\obj\Debug\pr19_7._4_Likhachev_Miroshnichenko.Properties.Resources.resources
+D:\МДК_01_01\PR19_7\pr19_7.4_Likhachev_Miroshnichenko\obj\Debug\pr19_7.4_Likhachev_Miroshnichenko.csproj.GenerateResource.cache
+D:\МДК_01_01\PR19_7\pr19_7.4_Likhachev_Miroshnichenko\obj\Debug\pr19_7.4_Likhachev_Miroshnichenko.exe
+D:\МДК_01_01\PR19_7\pr19_7.4_Likhachev_Miroshnichenko\obj\Debug\pr19_7.4_Likhachev_Miroshnichenko.pdb
