@@ -67,6 +67,8 @@
             this.buttonAdd = new System.Windows.Forms.Button();
             this.buttonSearch = new System.Windows.Forms.Button();
             this.buttonShowRating = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.buttonExport = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dekanatDataSet1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewDekan)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bindingSourceDekan)).BeginInit();
@@ -376,7 +378,7 @@
             // 
             // buttonSearch
             // 
-            this.buttonSearch.Location = new System.Drawing.Point(213, 339);
+            this.buttonSearch.Location = new System.Drawing.Point(212, 340);
             this.buttonSearch.Name = "buttonSearch";
             this.buttonSearch.Size = new System.Drawing.Size(75, 23);
             this.buttonSearch.TabIndex = 3;
@@ -386,7 +388,7 @@
             // 
             // buttonShowRating
             // 
-            this.buttonShowRating.Location = new System.Drawing.Point(294, 340);
+            this.buttonShowRating.Location = new System.Drawing.Point(293, 340);
             this.buttonShowRating.Name = "buttonShowRating";
             this.buttonShowRating.Size = new System.Drawing.Size(75, 23);
             this.buttonShowRating.TabIndex = 4;
@@ -394,11 +396,32 @@
             this.buttonShowRating.UseVisualStyleBackColor = true;
             this.buttonShowRating.Click += new System.EventHandler(this.buttonShowRating_Click);
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(0, 0);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 5;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // buttonExport
+            // 
+            this.buttonExport.Location = new System.Drawing.Point(374, 340);
+            this.buttonExport.Name = "buttonExport";
+            this.buttonExport.Size = new System.Drawing.Size(75, 22);
+            this.buttonExport.TabIndex = 6;
+            this.buttonExport.Text = "Экспорт";
+            this.buttonExport.UseVisualStyleBackColor = true;
+            this.buttonExport.Click += new System.EventHandler(this.buttonExport_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(834, 450);
+            this.Controls.Add(this.buttonExport);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.buttonShowRating);
             this.Controls.Add(this.buttonSearch);
             this.Controls.Add(this.buttonAdd);
@@ -457,6 +480,8 @@
         private System.Windows.Forms.Button buttonAdd;
         private System.Windows.Forms.Button buttonSearch;
         private System.Windows.Forms.Button buttonShowRating;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button buttonExport;
     }
 }
 

@@ -10,3 +10,5 @@ D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.pdb
 D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.AddStud.resources
 D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.SearchForm.resources
 D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.StudRating.resources
+D:\MDK_01_01\Пр26_Лихачев\obj\Debug\Interop.Office.dll
+D:\MDK_01_01\Пр26_Лихачев\obj\Debug\ПР26_Лихачев.csproj.ResolveComReference.cache
