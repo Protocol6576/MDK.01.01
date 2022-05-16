@@ -1,0 +1,12 @@
+D:\MDK_01_01\ПР26_Лихачев\bin\Debug\ПР26_Лихачев.exe.config
+D:\MDK_01_01\ПР26_Лихачев\bin\Debug\ПР26_Лихачев.exe
+D:\MDK_01_01\ПР26_Лихачев\bin\Debug\ПР26_Лихачев.pdb
+D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.csprojAssemblyReference.cache
+D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.Form1.resources
+D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.Properties.Resources.resources
+D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.csproj.GenerateResource.cache
+D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.exe
+D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.pdb
+D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.AddStud.resources
+D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.SearchForm.resources
+D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.StudRating.resources
