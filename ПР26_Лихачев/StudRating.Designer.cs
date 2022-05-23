@@ -50,7 +50,7 @@
             this.controlType});
             this.dataGridView1.Location = new System.Drawing.Point(12, 12);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(621, 150);
+            this.dataGridView1.Size = new System.Drawing.Size(621, 204);
             this.dataGridView1.TabIndex = 0;
             // 
             // groupId
@@ -90,7 +90,7 @@
             this.ClientSize = new System.Drawing.Size(658, 352);
             this.Controls.Add(this.dataGridView1);
             this.Name = "StudRating";
-            this.Text = "StudRating";
+            this.Text = "Оценки студентов";
             this.Load += new System.EventHandler(this.StudRating_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);

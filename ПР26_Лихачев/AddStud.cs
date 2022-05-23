@@ -33,7 +33,7 @@ namespace ПР26_Лихачев
 
         private void buttonAdd_Click(object sender, EventArgs e)
         {
-            Form1 main = this.Owner as Form1;
+            studentsForm main = this.Owner as studentsForm;
             if(main != null)
             {
                 DataRow nRow = main.dekanatDataSet1.Tables[2].NewRow();

@@ -19,7 +19,7 @@ namespace ПР26_Лихачев
 
         private void buttonSearch_Click(object sender, EventArgs e)
         {
-            Form1 main = this.Owner as Form1;
+            studentsForm main = this.Owner as studentsForm;
             if(main != null)
             {
                 for(int i = 0; i < main.dataGridViewDekan.RowCount; i++)

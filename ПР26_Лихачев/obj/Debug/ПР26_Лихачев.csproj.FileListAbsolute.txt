@@ -2,7 +2,6 @@ D:\MDK_01_01\ПР26_Лихачев\bin\Debug\ПР26_Лихачев.exe.config
 D:\MDK_01_01\ПР26_Лихачев\bin\Debug\ПР26_Лихачев.exe
 D:\MDK_01_01\ПР26_Лихачев\bin\Debug\ПР26_Лихачев.pdb
 D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.csprojAssemblyReference.cache
-D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.Form1.resources
 D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.Properties.Resources.resources
 D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.csproj.GenerateResource.cache
 D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.exe
@@ -12,3 +11,7 @@ D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.SearchForm.re
 D:\MDK_01_01\ПР26_Лихачев\obj\Debug\ПР26_Лихачев.StudRating.resources
 D:\MDK_01_01\Пр26_Лихачев\obj\Debug\Interop.Office.dll
 D:\MDK_01_01\Пр26_Лихачев\obj\Debug\ПР26_Лихачев.csproj.ResolveComReference.cache
+D:\MDK_01_01\Пр26_Лихачев\obj\Debug\ПР26_Лихачев.AboutBox.resources
+D:\MDK_01_01\Пр26_Лихачев\obj\Debug\ПР26_Лихачев.MainMenuForm.resources
+D:\MDK_01_01\Пр26_Лихачев\obj\Debug\ПР26_Лихачев.studentsForm.resources
+D:\MDK_01_01\Пр26_Лихачев\obj\Debug\ПР26_Лихачев.Reference.resources
